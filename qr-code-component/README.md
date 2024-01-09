@@ -18,7 +18,7 @@ Welcome to the Frontend Mentor QR Code Component project! This project aims to h
 ## Getting Started
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/qr-code-component.git
+   git clone https://github.com/Chaitanya-Gautam/Frontend_Mentor-Solutions/tree/main/qr-code-component
    ```
 
 2. Open the `index.html` file in your preferred browser to view the QR code component.
