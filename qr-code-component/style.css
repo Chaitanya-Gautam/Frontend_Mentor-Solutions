@@ -5,19 +5,11 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-color: hsl(212, 45%, 89%);
    
 
 }
 
-.mainContainer {
-    width: 88%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: hsl(212, 45%, 89%);
-    box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.2);
-
-}
 
 .card {
     width: 250px;
